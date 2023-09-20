@@ -1,0 +1,9 @@
+cd git
+cd Computational-Social-Science-Projects
+mkdir project1
+cd project1
+nano proj1commands.txt
+git status
+git add proj1commands.txt
+gt commit -m "Marisa's proj 1 commands"
+git push
